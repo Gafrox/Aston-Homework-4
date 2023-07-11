@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Aston Homework 4</string>
+    <string name="go_to_b">Go to B</string>
+    <string name="go_to_c">Go to C</string>
+    <string name="back">Back</string>
+    <string name="go_to_d">Go to D</string>
+    <string name="go_to_a">Go to A</string>
+    <string name="a">A</string>
+    <string name="b">B</string>
+    <string name="c">C</string>
+    <string name="d">D</string>
+    <string name="text_to_fragment_c">Hello Fragment C</string>
+</resources>
